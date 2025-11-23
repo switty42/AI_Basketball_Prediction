@@ -1,0 +1,16 @@
+The University of Arkansas women's basketball team has started its 2025 / 2026 game season.  Find below an upcoming team opponent that they will compete against.
+Your job is to predict if the University of Arkansas women's basketball team wins the game against the listed opponent.  Also, find below helpful background information, if any, that might aid in your decision.
+
+If you predict the University of Arkansas women's basketball team will win, you will answer with a Y between two braces like this {Y}
+If you predict the University of Arkansas women's basketball team will lose, you will answer with an N between two braces like this {N}
+
+You will also reply with the number of points you expect the University of Arkansas women's basketball team to win or lose by.  You will supply this number between two brackets.
+For instance, if you predict they will win by 3 points, your answer will be [3]
+For instance, if you predict they will lose by 11 points, your answer will be [11]
+
+Here is some helpful information to help you decided the future game:
+
+On 11-4-25 The University of Arkanas women's basketball team beat team Louisiana Tech 93 to 81 at Bud Walton Arena
+
+Below is the future game I want you to predict:
+
